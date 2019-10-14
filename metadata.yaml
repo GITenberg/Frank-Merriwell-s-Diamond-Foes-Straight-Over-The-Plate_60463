@@ -1,5 +1,8 @@
 _repo: Frank-Merriwell-s-Diamond-Foes-Straight-Over-The-Plate_60463
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60463-h/images/cover.jpg
 creator:
   author:
     agent_name: Standish, Burt L.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3848
     wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60463#Frank-Merriwell-s-Diamond-Foes-Straight-Over-The-Plate
 gutenberg_issued: '2019-10-09'
 gutenberg_type: Text
 identifiers:
